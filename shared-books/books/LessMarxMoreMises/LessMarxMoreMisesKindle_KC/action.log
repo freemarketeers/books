@@ -1,0 +1,22 @@
+[Sat Nov 26 04:59:24 UTC 2022][INFO] [Action] EE NewBook
+[Sat Nov 26 04:59:46 UTC 2022][INFO] [Action] E AutoChapterGroupAction - 0
+[Sat Nov 26 05:00:26 UTC 2022][INFO] [Action] E ItemChanged - -1,18243
+[Sat Nov 26 05:00:27 UTC 2022][INFO] [Action] E ItemChanged - -1,18243
+[Sat Nov 26 05:00:28 UTC 2022][INFO] [Action] E DeleteContent - (r,18243,18251),B
+[Sat Nov 26 05:00:30 UTC 2022][INFO] [Action] E ItemChanged - -1,18243
+[Sat Nov 26 05:00:31 UTC 2022][INFO] [Action] E ItemChanged - -1,4357
+[Sat Nov 26 05:00:33 UTC 2022][INFO] [Action] E ItemChanged - -1,18243
+[Sat Nov 26 05:00:34 UTC 2022][INFO] [Action] E ItemChanged - -1,21768
+[Sat Nov 26 05:00:35 UTC 2022][INFO] [Action] E ItemChanged - -1,18243
+[Sat Nov 26 05:00:36 UTC 2022][INFO] [Action] E ItemChanged - -1,21768
+[Sat Nov 26 05:00:37 UTC 2022][INFO] [Action] E ItemChanged - -1,54445
+[Sat Nov 26 05:00:38 UTC 2022][INFO] [Action] E ItemChanged - -1,63254
+[Sat Nov 26 05:00:38 UTC 2022][INFO] [Action] E ItemChanged - -1,72903
+[Sat Nov 26 05:00:39 UTC 2022][INFO] [Action] E ItemChanged - -1,103030
+[Sat Nov 26 05:00:39 UTC 2022][INFO] [Action] E ItemChanged - -1,173700
+[Sat Nov 26 05:00:40 UTC 2022][INFO] [Action] E ItemChanged - -1,189787
+[Sat Nov 26 05:00:41 UTC 2022][INFO] [Action] E ItemChanged - -1,206319
+[Sat Nov 26 05:01:23 UTC 2022][INFO] [Action] E PreviewBook - 181458
+[Sat Nov 26 05:01:43 UTC 2022][INFO] [Action] E SaveBook - Save
+[Sat Nov 26 05:01:55 UTC 2022][INFO] [Action] E SaveBook - SaveforExport
+[Sun Nov 27 19:02:51 UTC 2022][INFO] [Action] E SaveBook - Save
