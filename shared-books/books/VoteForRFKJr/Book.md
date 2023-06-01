@@ -1,6 +1,6 @@
 
 
-# The Freedom Reconquista: Defeating the Priesthoods of Central Planning and Scientism with 'Austrian Economics' And The RFK. Jr. 2024 Campaign.
+# The Freedom Reconquista: Defeating the Priesthoods of Coercive Central Planning and Scientism with 'Austrian Economics' And The RFK. Jr. 2024 Campaign.
 
 
 ## Preface.
