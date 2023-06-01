@@ -166,17 +166,6 @@ Many Americans and people all over the world are beginning to understand how vit
 
 In a certain poetic sense, RFK Jr. is what remains of the best of America. The cultural inheritance of the couragous and much-beloved Kennedy brand, his network of courageous doctors, lawyers and friends, his proven track record of fighting against the grain, the pissed off mothers who have had their children and loved ones mutilated by the 'Priesthood of Scientism', and countless other accolades make him and his campaign a formidable beacon of freedom with which to hopefully lead America and the rest of the world from its current path towards increasing chaos and tyranny.
 
-The rest of this book goes as follows:
-
-1. An introduction to the economic wisdom of 'The Austrians' which will help anyone understand and defend real capitalism and economic freedom, as well as understand and appreciate the history of how so many well-intentioned people fooled themselves into Communist mythology and the harm that it did. Every American, actually, every adult should understand the history of the rise and fall of Communism because the lessons apply to government-created tyranny like CovidMania as well as warmongering. 
-
-2. 'The Austrians' also explained the co-evolution of the modern freemarket economy with culture and our Abrahamic religions (Judaism, Christianity, and Islam) which are both the source of our modern prosperity but also the Jew-Gentile misunderstandings that led to Hitler's antisemitism, World War Two, and our never-ending Israeli-Palestinian conflict and its numerous ramifications like the Russia-Ukraine war. As part of this section we will suggest our 'One State Solution'.
-
-3. We will look at the emergence of our current 'Priesthood of Scientism' which culminated in the CovidMania tyranny.
-
-4. We will discuss how economic ignorance is also the root of our increasingly polarizing racial problems. The Bolshevik-like level of ignorance and anti-white-male-hate that now dominates the Biden administration and much of the "woke" world and Democratic party was nicely summarized by popular congresswoman from New York, Alexandria Ocasio-Cortez, when she mentioned in 1/14/2021:
-
->"The Republican Party...They don't give a damn about the law. They don't give a damn about order. They don't give a damn about safety. They give a damn about white supremacy. They care about preserving the social order and the mythology of whiteness....[They lust for power more than they care about democracy"](https://fb.watch/30UP0Ssj-V/)
 
 
 ## We are a part of something greater than ourselves. The Market Process and Spencer's 'Social Organism'.
