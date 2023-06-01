@@ -1,6 +1,6 @@
 
 
-# The Freedom Reconquista: An Introduction to Austrian Economics, Cultural Evolution, and the RFK. Jr. 2024 Campaign. 
+# The Freedom Reconquista: Defeating the Priesthoods of Central Planning and Scientism with 'Austrian Economics' And The RFK. Jr. 2024 Campaign.
 
 
 ## Preface.
@@ -1751,8 +1751,6 @@ From the "recommendations" page we have:
 
 So... How does one interpret all this? What a coincidence!? Could all this preparation simply have spread to so many minds that when the next flu-like illness arose all the "experts" simply went along with this plan because it had been fresh on their minds? Did some ideologues purposely exaggerate in the hopes of getting more attention and the necessary resources to further their wonderful Global Plans for mankind? Was this just a coincidence? Remember all those clueless scientists in the "The Conservation of Species" section who essentially want homo sapiens to perish? Why should we not expect their ignorance to continue to spread and eventually materialize in disastrous errors-policies? Even if this had been "plotted" to various degrees along the way as some feel, the deeper causes, are once again economic ignorance. Lenin did not destroy much of the 20th century because he was some sinister guy who just didn't want to get a real job. Who really wants to be remembered for having caused so much suffering? And the same likely applies to Bill and Melinda and Fauci and all of our Central Planners-Priests. These people are mostly totally clueless. They are the inevitable Priesthood that arises from the ignorance and tribalisms of the masses, especially when most of the economically ignorant ideologues and masses easily chase their tails believing that central banking and thus money-creation by some technocrats can achieve anything. 
 
-
-### Applied Cultural Evolution: Jew-Gentile Misunderstandings
 
 
 
