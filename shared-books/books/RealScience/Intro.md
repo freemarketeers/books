@@ -3,7 +3,7 @@
 
 ## Preface.
 
-This book-project is a collaborative Open Source project put together by the Freemarketeers writing group, a group of people who feel like they have had the immense fortune of having stumbled upon the proper understanding of the functioning and evolution of the socio-economic order as provided by the economists known as 'The Austrian School of Economics'. The ideas of men like Carl Menger, Ludwig von Mises, 1974 Nobel Laureate in Economics F.A. Hayek, Murray N. Rothbard and others, are not only vital for understanding the world, but also our geopolitical conflicts like those that arise from Jew-Gentile relations like the Israeli-Palestinian conflict and all that grows from it, as well as the recent CovidMania and Russia-Ukraine War. 
+This book-project is a collaborative Open Source project put together by the Freemarketeers writing group, a group of people who feel like they have had the immense fortune of having stumbled upon the proper understanding of the functioning and evolution of the socio-economic order as provided by the economists known as 'The Austrian School of Economics'. The ideas of men like Carl Menger, Ludwig von Mises, 1974 Nobel Laureate in Economics F.A. Hayek, Murray N. Rothbard and others, are not only vital for understanding the world, but also our geopolitical conflicts like World Wars well as the recent CovidMania and Russia-Ukraine War. 
 
 Just like the Linux operating system can be continuously improved and propagated by many people, we likewise hope that the Open Source nature of this project motivates others to both improve it and speak on its behalf thus hopefully maximizing its reach. If you would like to learn more and contribute please visit https://freemarketeers.org/
 
@@ -152,6 +152,14 @@ If we are to quickly save mankind and reach the prosperity we are truly capable 
 Mises: 
 
 >"Everyone carries a part of society on his shoulders; no one is relieved of his share of responsibility by others. And no one can find a safe way out for himself if society is sweeping towards destruction. Therefore, everyone, in his own interests, must thrust himself vigorously into the intellectual battle. None can stand aside with unconcern; the interests of everyone hang on the result. Whether he chooses or not, every man is drawn into the great historical struggle, the decisive battle into which our epoch has plunged us." (Mises, 1981)
+
+The rest of this book goes as follows:
+
+1.	An introduction to the economic wisdom of ‘The Austrians’ which will help anyone understand and defend real capitalism and economic freedom, as well as understand and appreciate the history of how so many well-intentioned people fooled themselves into Communist mythology and the harm that it did. Every American, actually, every adult should understand the history of the rise and fall of Communism because the lessons apply to government-created tyranny like CovidMania as well as warmongering via World War One, Two, and the current Russia-Ukraine War.
+
+2.	‘The Austrians’ also explained the co-evolution of the modern free market economy with culture. Their wisdom here is also vital for understanding how civilization has emerged and why we have so much socioeconomic chaos all around us.
+
+3.	We will look at the emergence of our current ‘Priesthood of Scientism’ which brought us the CovidMania tyranny and realize that much of "Science" is a mythical and misguided today as it was centuries ago. 
 
 
 

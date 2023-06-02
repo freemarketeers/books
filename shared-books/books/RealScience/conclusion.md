@@ -1,7 +1,5 @@
 
-
 ## Concluding remarks.
-
 
 If one looks at homo sapiens during the last 100,000 years it is easy to see that civilization has been a sort of cultural mutation, an anomaly (although one that was likely bound to happen). This miracle needs further miracles to happen. It was already miraculous that Mises-Hayek-friends managed to save Western Civilization in the 1920s-1940s.
 
@@ -46,32 +44,7 @@ Let us further discuss some simple ways to quickly get mankind on a quick path t
 
 !INCLUDE "../../snippets/quick-prosperity.md"
 
-Just a slight increase in prosperity and the spread of freedom will quickly alleviate poverty, ignorance, and the extremist ideologies. This will greatly help soothe the chaos in the Middle East. Extremist religious views, those of Israeli settlers as well as the Islamic kind will quickly see their ideologies lose their appeal and lead to the melting away of the Israeli-Palestinian conflict. 
-
-
-
-### The RFK Jr. 2024 Campaign. Speeches and Comments.
-
-RFK Jr's inaugural speech on 4/19/2023 displayed a great understanding of much of what is needed to save civilization. Regarding a basic understanding of how government money creation to finance stupidity leads to higher prices he mentions:
-
-"...between 1900 and 2008 we've been printed a trillion dollars....between 2008 and today we've printed 10 trillion....to pay for bailouts and lockdowns...inflation is a tax on the poor...basic foodstuffs like chicken Dairy and milk it's gone up 78 percent"
-
-RFK Jr. is a firm believer in real capitalism, unaided or corrupted by government:
-
-"free market capitalism worked perfectly for them"..."General Electric just had better lobbyists so it was able to escape the discipline of the free market"
-
-Little needs to be said regarding RFK Jr's understanding and courage regarding the medical 'Priesthood of Scientism' given his excellent books like 'The Real Anthony Fauci' and work with https://childrenshealthdefense.org/.
-
-
-Perhaps most importantly RFK Jr. is significantly aware of how militarism, especially by the so-called Neocons, is largely responsible for the destruction of American prosperity and unimaginable suffering and chaos in the Middle East and more. We quote at length:
-
-
->"President Biden said that one of our objectives at least is regime change of Vladimir Putin and this is the same strategy that did not work for well for us in Iraq. And it's many of the same people who were around, the neocons, who are around President Biden who have been talking about that for a long time and have been engaged in geopolitical imaginations in the Ukraine since 2014.... President Biden's Secretary of Defense Lloyd Austin validated President Biden's statement by saying that our objective in the Ukraine is to exhaust and degrade the Russian army so they're incapable of having battles anywhere else in the world....Many of the steps that we've taken in the Ukraine have seemed to indicate that our interest is in prolonging the war rather than shortening it so if those are our objectives to have regime change and exhaust the Russians that is completely antithetical to a humanitarian mission."
-
->"....my uncle came into office two months later, he was fighting his intelligence apparatus in his military because they wanted to invade[Cuba]... I mean they wanted to do the Bay of Pigs, he was totally against it and he let them roll over him ....and he said 'I want to take the CIA and shatter it into a thousand pieces and Scatter it to the winds' ....George W bush had the same problem... George W bush says the worst mistake he made as president was listening to CIA director George tannett tell him it was a slam dunk that Saddam Hussein had weapons of mass destruction and so the neocons and CIA got to go into Iraq, and throw out, and do regime change... We've spent eight trillion dollars and what do we get for that eight trillion? Nothing! Worse than nothing! Iraq is now much worse off than it was when we went in there...We killed more Iraqis than Saddam Hussein ever did. We may have killed a million Iraqis, and nobody knows the number....It is an incoherent country today... Shia death squads are fighting with Sunni death squads in the street. The government is corrupt, the police are corrupt, we created Isis, we drove 2 million refugees up into Europe and destabilized democracy for a generation in Europe, they caused Brexit. This is the cost of the Iraq War. Eight trillion dollars there, 16 trillion for the lockdowns, 24 trillion. Nothing to show except a devastated middle class in the United States of America, and we need to put an end in that."
-
-
-Ouch, a moose is biting us. 
+Just a slight increase in prosperity and the spread of freedom will quickly alleviate poverty, ignorance, and the extremist ideologies. This will greatly help soothe the chaos in the Middle too. Ouch, a moose is biting us. 
 
 Please consider leaving a review in amazon.com and joining our shared book project at https://www.freemarketeers.org
 
