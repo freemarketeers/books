@@ -54,16 +54,20 @@ Just a slight increase in prosperity and the spread of freedom will quickly alle
 
 RFK Jr's inaugural speech on 4/19/2023 displayed a great understanding of much of what is needed to save civilization. Regarding a basic understanding of how government money creation to finance stupidity leads to higher prices he mentions:
 
-"...between 1900 and 2008 we've been printed a trillion dollars....between 2008 and today we've printed 10 trillion....to pay for bailouts and lockdowns...inflation is a tax on the poor...basic foodstuffs like chicken Dairy and milk it's gone up 78 percent"
+>"...between 1900 and 2008 we've been printed a trillion dollars....between 2008 and today we've printed 10 trillion....to pay for bailouts and lockdowns...inflation is a tax on the poor...basic foodstuffs like chicken Dairy and milk it's gone up 78 percent"
 
 RFK Jr. is a firm believer in real capitalism, unaided or corrupted by government:
 
-"free market capitalism worked perfectly for them"..."General Electric just had better lobbyists so it was able to escape the discipline of the free market"
+>"free market capitalism worked perfectly for them"..."General Electric just had better lobbyists so it was able to escape the discipline of the free market"
+
+In another discussion he mentions:
+
+>"I believe in free market capitalism because i believe that the marketplace promotes efficiency...A free market would urge us to properly value our natural resources...In a true free market you cant make yourself rich without making your neighbors rich and without enriching your community...
 
 Little needs to be said regarding RFK Jr's understanding and courage regarding the medical 'Priesthood of Scientism' given his excellent books like 'The Real Anthony Fauci' and work with https://childrenshealthdefense.org/.
 
 
-Perhaps most importantly RFK Jr. is significantly aware of how militarism, especially by the so-called Neocons, is largely responsible for the destruction of American prosperity and unimaginable suffering and chaos in the Middle East and more. We quote at length:
+Just as importantly RFK Jr. is significantly aware of how militarism, especially by the so-called Neocons, is largely responsible for the destruction of American prosperity and unimaginable suffering and chaos in the Middle East and more. We quote at length:
 
 
 >"President Biden said that one of our objectives at least is regime change of Vladimir Putin and this is the same strategy that did not work for well for us in Iraq. And it's many of the same people who were around, the neocons, who are around President Biden who have been talking about that for a long time and have been engaged in geopolitical imaginations in the Ukraine since 2014.... President Biden's Secretary of Defense Lloyd Austin validated President Biden's statement by saying that our objective in the Ukraine is to exhaust and degrade the Russian army so they're incapable of having battles anywhere else in the world....Many of the steps that we've taken in the Ukraine have seemed to indicate that our interest is in prolonging the war rather than shortening it so if those are our objectives to have regime change and exhaust the Russians that is completely antithetical to a humanitarian mission."
