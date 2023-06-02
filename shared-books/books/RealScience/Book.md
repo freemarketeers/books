@@ -5,7 +5,7 @@
 
 ## Preface.
 
-This book-project is a collaborative Open Source project put together by the Freemarketeers writing group, a group of people who feel like they have had the immense fortune of having stumbled upon the proper understanding of the functioning and evolution of the socio-economic order as provided by the economists known as 'The Austrian School of Economics'. The ideas of men like Carl Menger, Ludwig von Mises, 1974 Nobel Laureate in Economics F.A. Hayek, Murray N. Rothbard and others, are not only vital for understanding the world, but also our geopolitical conflicts like World Wars well as the recent CovidMania and Russia-Ukraine War. 
+This book-project is a collaborative Open Source project put together by the Freemarketeers writing group, a group of people who feel like they have had the immense fortune of having stumbled upon the proper understanding of the functioning and evolution of the socio-economic order as provided by the economists known as 'The Austrian School of Economics'. The ideas of men like Carl Menger, Ludwig von Mises, 1974 Nobel Laureate in Economics F.A. Hayek, Murray N. Rothbard and others, are not only vital for understanding the world, but also our geopolitical conflicts like World Wars as well as the recent CovidMania and Russia-Ukraine War. 
 
 Just like the Linux operating system can be continuously improved and propagated by many people, we likewise hope that the Open Source nature of this project motivates others to both improve it and speak on its behalf thus hopefully maximizing its reach. If you would like to learn more and contribute please visit https://freemarketeers.org/
 
