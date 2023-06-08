@@ -1,4 +1,5 @@
-# Real Freedom Is Real Science: An Introduction To The Vital Wisdom Of 'The Austrian School of Economics' 
+# Real Science Requires Real Freedom: An Introduction To ‘Austrian Economics’ And The Libertarian Party’s Science Caucus.
+
 
 
 ## Preface.

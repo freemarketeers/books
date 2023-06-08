@@ -1,0 +1,45 @@
+[Tue Jun 06 18:00:47 UTC 2023][INFO] [Action] EE NewBook
+[Tue Jun 06 18:01:30 UTC 2023][INFO] [Action] E AutoChapterGroupAction - 0
+[Tue Jun 06 18:01:36 UTC 2023][INFO] [Action] E DeleteContent - (r,206,216),B
+[Tue Jun 06 18:01:38 UTC 2023][INFO] [Action] E DeleteContent - (r,206,209),B
+[Tue Jun 06 18:01:39 UTC 2023][INFO] [Action] E DeleteContent - (r,197,209),B
+[Tue Jun 06 18:01:40 UTC 2023][INFO] [Action] E DeleteContent - (c,196,2),B
+[Tue Jun 06 18:01:40 UTC 2023][INFO] [Action] E DeleteContent - (c,196,1),B
+[Tue Jun 06 18:01:40 UTC 2023][INFO] [Action] E DeleteContent - (c,195,1),B
+[Tue Jun 06 18:01:40 UTC 2023][INFO] [Action] E DeleteContent - (c,194,1),B
+[Tue Jun 06 18:01:45 UTC 2023][INFO] [Action] E Copy - (r,155,180)
+[Tue Jun 06 18:01:49 UTC 2023][INFO] [Action] E AddHyperlink - (r,155,180),https://freemarketeers.org
+[Tue Jun 06 18:06:05 UTC 2023][INFO] [Action] E SaveBook - Save
+[Tue Jun 06 18:09:38 UTC 2023][INFO] [Action] E SplitContainer - 305903
+[Tue Jun 06 18:09:40 UTC 2023][INFO] [Action] E AddTextContainer - (c,305903,1),1,0,0
+[Tue Jun 06 18:09:59 UTC 2023][INFO] [Action] E Cut - (r,305904,305924)
+[Tue Jun 06 18:10:04 UTC 2023][INFO] [Action] E SplitContainer - 305905
+[Tue Jun 06 18:10:05 UTC 2023][INFO] [Action] E AddTextContainer - (c,305905,1),1,0,0
+[Tue Jun 06 18:10:06 UTC 2023][INFO] [Action] E Paste - (c,305905,2),21
+[Tue Jun 06 18:11:10 UTC 2023][INFO] [Action] E DeleteContent - (c,335575,2),B
+[Tue Jun 06 18:11:12 UTC 2023][INFO] [Action] E AddTextContainer - (c,335904,2),0,0,0
+[Tue Jun 06 18:11:20 UTC 2023][INFO] [Action] E ApplySemantics - (r,335574,335904),block_quote
+[Tue Jun 06 18:11:25 UTC 2023][INFO] [Action] E SaveBook - Save
+[Tue Jun 06 18:12:24 UTC 2023][INFO] [Action] E ApplySemantics - (r,367107,367261),chapter_subtitle
+[Tue Jun 06 18:12:26 UTC 2023][INFO] [Action] E ApplySemantics - (r,367107,367261),chapter_title
+[Tue Jun 06 18:12:28 UTC 2023][INFO] [Action] E ApplySemantics - (r,367108,367262),chapter_title
+[Tue Jun 06 18:12:28 UTC 2023][INFO] [Action] EFail ApplySemantics - 4
+[Tue Jun 06 18:15:48 UTC 2023][INFO] [Action] E DeleteContent - (r,453237,453237),F
+[Tue Jun 06 18:15:49 UTC 2023][INFO] [Action] E InsertTextContent - (c,453236,2),[T]
+[Tue Jun 06 18:16:05 UTC 2023][INFO] [Action] E SaveBook - Save
+[Tue Jun 06 18:16:18 UTC 2023][INFO] [Action] E SaveBook - Save
+[Tue Jun 06 18:16:22 UTC 2023][INFO] [Action] E SaveBook - SaveforExport
+[Tue Jun 06 18:17:00 UTC 2023][INFO] [Action] EE ExportAction
+[Tue Jun 06 18:26:42 UTC 2023][INFO] [Action] E DeleteContent - (c,426702,2),B
+[Tue Jun 06 18:26:43 UTC 2023][INFO] [Action] E InsertTextContent - (c,426702,1),[;]
+[Tue Jun 06 18:26:43 UTC 2023][INFO] [Action] E DeleteContent - (c,426702,2),B
+[Tue Jun 06 18:26:44 UTC 2023][INFO] [Action] E InsertTextContent - (c,426702,1),[l]
+[Tue Jun 06 18:26:46 UTC 2023][INFO] [Action] E SaveBook - Save
+[Tue Jun 06 18:27:09 UTC 2023][INFO] [Action] E DeleteContent - (c,384215,2),B
+[Tue Jun 06 18:27:10 UTC 2023][INFO] [Action] E InsertTextContent - (c,384215,1),[i]
+[Tue Jun 06 21:42:08 UTC 2023][INFO] [Action] E SaveBook - Save
+[Tue Jun 06 21:42:45 UTC 2023][INFO] [Action] E SaveBook - SaveforExport
+[Thu Jun 08 14:54:49 UTC 2023][INFO] [Action] EE ExportAction
+[Thu Jun 08 14:54:54 UTC 2023][INFO] [Action] E SaveBook - Save
+[Thu Jun 08 14:55:04 UTC 2023][INFO] [Action] E SaveBook - Save
+[Thu Jun 08 14:55:04 UTC 2023][INFO] Logger Terminated
