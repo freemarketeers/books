@@ -62,7 +62,7 @@ Our elected ideologues during the time wanted to intimidate the Russians by show
 
 Bottom line, only massive hordes of economically ignorant and thus "uncivilized" slightly smarter apes, sadly most Americans at the time, could fool themselves into going along with such slaughter. 
 
-On Dec. 8th, the day after the bombing of Pearl Harbor, the slightly smarter apes that had absorbed an 'American' identity declared war on the Japanese. Obvioulsy the homo sapiens residing in the US had to salughter the homo sapiens in Japan. Only one truly wise and civilized homo sapiens knew this was an unnecessary bad idea and voted against the declaration, Jeannette Rankin. She had also gotten it right by voting against US entry into World War One. 
+On Dec. 8th, the day after the bombing of Pearl Harbor, the slightly smarter apes that had absorbed an 'American' identity declared war on the Japanese. Obvioulsy the homo sapiens residing in the US had to slaughter the homo sapiens in Japan. Only one truly wise and civilized homo sapiens knew this was an unnecessary bad idea and voted against the declaration, Jeannette Rankin. She had also gotten it right by voting against US entry into World War One. 
 
 As feared by the Japanese, the worst possible outcome occurred as communist mythology and resulting inevitable suffering via Mao Zedong's revolution led to the deaths and immense suffering of millions. Shit happens, there is really no one to blame of course. Little by little, with enough freedom the slightly smarter apes eventually learn. Deng Xiaoping who was the leading pro-free-market reformer after Mao's passing tells us: 
 
