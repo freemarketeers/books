@@ -1,0 +1,55 @@
+
+
+##### The "Evil" Huns-Germans of World War One. The Inevitable Emergence of War-Time Atrocity Myths.
+
+
+We began the book by highlighting what is perhaps the best modern example of how totally clueless and tribalistic the slightly smarter apes are, the self-destruction of Europe via WWI(1914-1918) for reasons not one out of 100,000 people today knows. 
+
+Freedom and the emerging worldwide division of labor and knowledge kept creating all this technology and amazing complexity. But the apes at the time had little clue how 'the market process' works and much less how it had evolved largely independent of human reason, and sadly-understandably they just used the technology to better organize the tribal slaughter. As they have been doing for generations, mythical concepts like "evil" quickly segregated the apes into their respective tribes. The apes in the US-Canada-England believed myths and propaganda that portrayed the Germans as the evil "huns", apes so barbaric and somehow possessed by some militaristic spirit that out of sheer malice they would sinisterly bayonet and chop off the hands of Belgian babies and crucify Canadian soldiers. Below are some World War One anti-German propaganda posters.
+
+<img src="../../images/huns.jpg" alt="Huns"
+	title="Huns" width="600" height="700" /> 
+
+<img src="../../images/huns2.jpg" alt="Huns"
+	title="Huns" width="600" height="700" /> 
+
+<img src="../../images/huns3.jpg" alt="Huns"
+	title="Huns" width="600" height="700" /> 
+
+This was such a big deal that U.S. lawyer Clarence Darrow, who would eventually become known for defending John T. Scopes in the famous ‘Scopes “Monkey” Trial’ about teaching evolution in schools, went to France in 1915 offering $1,000 ($30,000 in today’s money) to anyone who could bring him one of the Belgian children who supposedly had their arms amputated by the evil Germans. Obviously he found no such cases, and even if he had, it still would have been a gigantic error-myth to label the "Germans" in such a manner that could continue to slaughter. The fact that those creating the propaganda felt it would help, and that the masses tolerated it and were inspired-roused by it, is just reflective of how the apes thought at the time. Just a couple hundred years earlier in 1693, Americans hung 19 people for witchcraft in the famed Salem witch trials. It just takes a while for the apes to properly see themselves as they really are. Although today's "enlightened" masses and "intellectuals" can find the World War One mentality backward, we remain lost in mythology when it comes to seeing all the human apes involved in World War Two as equals because we all know that the World War Two Germans and Hitler were the "evil Nazis" which is as mythical a bullshit as were the World War One myths.
+
+It is vitally important to keep in mind that labeling fellow homo sapiens as some mythical monstrosity in war happens ALL the time in conflicts large enough simply due to pure probability and the still overwhelming religious-mystical-non-evolutionary mindset of most people. And that the formation of such myths, even if at times purposely "designed" by newspapermen or politicians, is something that should still be seen as an understandable and nearly inevitable myth-formation and NOT a "conspiracy". Consider the following. Among the thousands of violent encounters in a conflict as large as a war between nations, statistically you are bound to have many violent encounters from which eventually one or a few will lead to the formation of such myths. For example, a bomb will eventually damage a non-military target and kill a civilian. In retaliation a civilian could understandably snipe at an occupying troop, which can then lead to a heightened state of fear-alertness and a soldier mistakenly shooting a teenager which will lead a mother or old lady to understandably scream about how evil and cold-blooded the occupiers are. Even just a regular soldier, being the killer slightly smarter apes that we are anyway, regardless of nationality, may just enjoy sniping or killing a civilian. This still would not make the soldier, much less his entire nation, some bestial "huns" or similar mythical-non-evolutionary creation. Then we have the media quickly spreading the atrocity, and then of course the politicians conveniently picking up the story to gain sympathy for their heroic war against the evildoers-monsters. Given the increasing tribalism-nationalism, the arms manufacturers, already likely to employ people who have a more naive good vs. evil mindset that justifies military spending and also profits from war, will have an easier time getting government money which also means more money for the campaigns of more simple-minded-tribalistic-good-vs.-evil politicians, who spread more naive tribalism through the media in an intensifying cycle of tribalism which attracts more money and wealth with which to spread more tribalism. Once the conflicts start the need for unity becomes even stronger and those opposed to it are easily branded as traitors, especially when these courageous people expose the errors or criminality of leaders pushing for war. Clear and level-headed thinkers who know that the "enemy" are just fellow human beings whose actions are often times very reasonable given how they see things and far from some "evil monsters" are bound to be in the minority, and eventually branded as traitors (pro-Kaiser-Hitler-Putin (insert evil bad guy here)). Once these voices are silenced then the apes just intensify the slaughter until one side claims victory to the "war".
+
+In any conflict, whether it is a family feud or a tribal slaughter, the apes have been naturally selected to attempt to persuade others to their cause-group. And this obviously manifests itself in modernity via the use of the media and propaganda to rally the public in support of the great cause-war. All action is based on knowledge, knowledge is expressed and described via language, and thus it is with language that we can see the formation of deep hatreds that can ultimately lead to wars. When World War One broke out, to most Americans the conflict was just a bigger version of one of the usual European scuffles which Americans wanted no part in and seemed so distant. If Germany had been some monstrous militaristic evil empire out to conquer the world the US would have joined the Allies immediately, but obviously it wasn’t, regardless of the diplomatic blunders committed by a few of its bureaucrats. “In 1908, a survey of how Americans viewed immigrant groups had ranked the Germans as the most admirable.” (Flemming, 2003)
+
+The British won the media war. On August 5th, 1914, a day after the British declared war on Germany, the British cut most undersea transatlantic communication cables linking Germany with the rest of the world. Historian Thomas Flemming writes:
+
+>“The New York Times reported the cutting of the main cables on August 6, 1914. The reporter dutifully noted that from now on, “all word of happenings in Germany must pass through hostile countries—Russia on the east, France on the west, and England on the north.”...The consul general of Germany’s chief ally, Austria-Hungary, in one of the greatest understatements of the twentieth century, told the Times: “The cutting of that cable may do us great injury. If only one side of the case is given … prejudice will be created against us here.”...On August 2, 1916, a group of American correspondents in Berlin signed a protest complaining that their dispatches were constantly “suppressed, mutilated or delayed” by the London censor. Americans were not getting the “vital half” of the most important events of the war.” (Flemming, pp. 44-45)
+
+ 
+Thanks to British propaganda, by the time the US entered the war, to many Americans Germany was no longer the land of so many of its own immigrants or the land of Mozart, Bach, and Beethoven, it was the land of the evil “Huns”. As Prof. Gordon mentions:
+
+>“At all costs, Germany and the Allies were not to be viewed as mere rivals in quest for mastery of Europe. Quite the contrary, the British propagandists claimed that German policy followed a long tradition of savage militarism unparalleled elsewhere... they attempted again and again to portray the Germans as being beyond the pale of civilized humanity… But how could the Germans best be pictured as bestial Huns? Atrocities real or imagined proved the best means of creating the desired image. The British propagandists even stooped so low as to manufacture “evidence” in pursuit of their goal. Thus it was widely alleged that German troops had mutilated babies during their occupation of Belgium…These stories lack any basis in fact, and the British Government admitted that it could not supply adequate documentation for them… Fortunately for the British, German propaganda proved unequal to the task. German pamphlets tended to be stiffly legalistic, and they proved no match for British appeals to passion.” (Denson, pp. 302-3)
+
+
+The April 17th 1917 edition of The Times (a British newspaper owned by Lord Northcliffe) ran a bogus story about Germans using human fat to make oils and soap, the same lies would resurface after World War Two when Nazi Germany was wrongly accused of making soap out of Jews. An angry German wrote an open letter to the hated propagandist Lord Northcliffe:
+
+>“…German propaganda was in spirit the propaganda of scholars, privy councilors and professors. How could these honest and unworldly men cope with devils of journalism, experts in mass poisoning like yourself? German propaganda, what there was of it, was addressed to the reason, to the intelligence, the conscience… How could such dry stuff as facts cope with the gaudy yarns, the hate hypnotism, the crude… sensations you dished up… The German… steadfastly refused to descend to your level.” (Hansen, p. 12)
+
+
+The bottom line is that we must always keep our eye on how various myths, not conspiracies, evolve, and how this is just part of all slightly smarter apes.
+
+
+A few quotes about war by the great Ludwig von Mises:
+
+>"Society has arisen out of the works of peace; the essence of society is peacemaking. Peace and not war is the father of all things. Only economic action has created the wealth around us; labor, not the profession of arms, brings happiness. Peace builds, war destroys."
+
+>"Only one thing can conquer war — that liberal attitude of mind which can see nothing in war but destruction and annihilation, and which can never wish to bring about a war, because it regards war as injurious even to the victors."
+
+
+>"Modern war is not a war of royal armies. It is a war of the peoples, a total war. It is a war of states which do not leave to their subjects any private sphere; they consider the whole population a part of the armed forces. Whoever does not fight must work for the support and equipment of the army. Army and people are one and the same. The citizens passionately participate in the war. For it is their state, their God, who fights."
+
+>"Whoever wishes peace among peoples must fight statism."
+
+
+
